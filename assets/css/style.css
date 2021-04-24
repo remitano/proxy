@@ -49,35 +49,6 @@ a:hover {
   height: 30px;
 }
 
-#navBar ul#navLinks {
-  list-style: none;
-  margin: 0 0 0 25px;
-  padding-top: 10px;
-  padding-bottom: 8px;
-  float: right;
-}
-
-#navBar ul#navLinks li {
-  float: left;
-  margin-right: 12px;
-}
-
-#navBar ul#navLinks li a {
-  display: block;
-  padding: 7px 9px;
-  text-decoration: none;
-  font-size: 18px;
-  color: white;
-}
-
-#navBar ul#navLinks li.active a {
-  font-weight: bold;
-}
-
-#navBar ul#navLinks li a:hover {
-  text-decoration: underline;
-}
-
 #social {
   float: right;
   margin-top: 4px;
@@ -315,9 +286,6 @@ code {
     width: auto;
     font-size: 14px;
   }
-  #navLinks {
-    display: none
-  }
   #headerImg {
     display: none
   }
@@ -327,9 +295,6 @@ code {
   #header {
     width: calc(100% - 24px);
     margin: 0 auto;
-  }
-  #headerLinks {
-    display: none
   }
   #noticeimg {
     display: none
