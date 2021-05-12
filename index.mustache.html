@@ -90,24 +90,14 @@
                 <tr><th>Site</th><th>Country</th><th>Status</th><th>Speed (ms)</th></tr>
               </thead>
               <script type='text/javascript'>document.getElementById('statusDate').innerHTML='Fri 16 Apr 2021 04:10:42 AM UTC';</script>
+              {{#hash_domain_speeds}}
               <tr>
-                <td class="site"><a rel="nofollow" class="t1" href="https://remitano.net">remitano.net</a></td>
+                <td class="site"><a rel="nofollow" class="t1" href="https://{{name}}">{{name}}</a></td>
                 <td class="country"><img src="assets/img/flags/us.gif" alt="us" title="us"></td>
                 <td class="status"><img alt="up" src="assets/img/up.png"></td>
-                <td class="speed">58</td>
+                <td class="speed">{{speed}}</td>
               </tr>
-              <tr>
-                <td class="site"><a rel="nofollow" class="t1" href="https://remitano.today">remitano.today</a></td>
-                <td class="country"><img src="assets/img/flags/us.gif" alt="us" title="us"></td>
-                <td class="status"><img alt="up" src="assets/img/up.png"></td>
-                <td class="speed">49</td>
-              </tr>
-              <tr>
-                <td class="site"><a rel="nofollow" class="t1" href="https://remitano.world">remitano.world</a></td>
-                <td class="country"><img src="assets/img/flags/us.gif" alt="us" title="us"></td>
-                <td class="status"><img alt="up" src="assets/img/up.png"></td>
-                <td class="speed">57</td>
-              </tr>
+              {{/hash_domain_speeds}}
             </table>
           </div>
         </div>

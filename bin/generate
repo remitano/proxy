@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+
+require 'dotenv/load'
+require 'mustache'
+require 'curl'
+require 'benchmark'
+
+def speed_test_milli(domain)
+  req = Curl::Easy.new do |curl|
+    curl.url = "#{domain}/ping"
+    curl.headers['Content-type'] = 'application/json'
+  end
+  time = Benchmark.realtime do
+    req.perform
+  end
+
+  time*1000
+end
+
+domains = ENV["PUBLIC_DOMAINS"].split(",")
+hash_domain_speeds = domains.each_with_object([]) do |domain, array|
+  array << {name: domain, speed: speed_test_milli(domain).round(0)}
+end
+%w[README.mustache.md index.mustache.html].each do |file_name|
+  content = File.read(file_name)
+  output = Mustache.render(content, hash_domain_speeds: hash_domain_speeds)
+  File.write(file_name.gsub("mustache.", ""), output)
+end

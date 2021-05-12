@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.9.2)
+    curl (0.0.9)
+      awesome_print (>= 0.2.1)
+      unidecoder (>= 1.1.1)
+    dotenv (2.7.6)
+    mustache (1.1.1)
+    net-ping (2.0.8)
+    unidecoder (1.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  curl
+  dotenv
+  mustache
+  net-ping
+
+BUNDLED WITH
+   2.1.4
