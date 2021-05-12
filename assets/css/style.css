@@ -1,8 +1,11 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
-  text-align: center;
   margin: 0;
+}
+
+.center {
+  text-align: center;
 }
 
 a {

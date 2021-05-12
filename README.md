@@ -22,9 +22,9 @@ The list was last updated on Wed 12 May 2021 04:10:42 AM UTC
 
 | Site        | Country           | Speed  |
 | ------------- |:-------------:| -----:|
-| remitano.net | ![](assets/img/up.png) | 1.239 |
-| remitano.today | ![](assets/img/up.png) |   1.395 |
-| remitano.world | ![](assets/img/up.png) |    1.438 |
+| **remitano.net** | ![](assets/img/up.png) | 1.239 |
+| **remitano.today** | ![](assets/img/up.png) |   1.395 |
+| **remitano.world** | ![](assets/img/up.png) |    1.438 |
 
 ### More Information
 
