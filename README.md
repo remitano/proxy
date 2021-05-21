@@ -21,9 +21,11 @@ A proxy site allows you to bypass blocks setup by your Internet provider.
 
 | Site        | Country           | Speed (ms) |
 | ------------- |:-------------:| -----:|
-| **remitano.net** | ![](assets/img/up.png) | 58
-| **remitano.today** | ![](assets/img/up.png) | 49
-| **remitano.world** | ![](assets/img/up.png) | 57
+| **remitano.me** | ![](assets/img/up.png) | 267
+| **remitano.biz** | ![](assets/img/up.png) | 54
+| **remitano.net** | ![](assets/img/up.png) | 65
+| **remitano.today** | ![](assets/img/up.png) | 50
+| **remitano.world** | ![](assets/img/up.png) | 73
 
 ### More Information
 
