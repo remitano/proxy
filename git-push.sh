@@ -1,5 +1,6 @@
 #!/bin/sh
 
+git stash
 git filter-branch -f --env-filter "
     GIT_AUTHOR_NAME='Remitano'
     GIT_AUTHOR_EMAIL='dev@remitano.com'
