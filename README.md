@@ -18,11 +18,11 @@ A proxy site allows you to bypass blocks setup by your Internet provider.
 
 | Site        | Country           | Speed (ms) |
 | ------------- |:-------------:| -----:|
-| **remitano.me** | ![](assets/img/up.png) | 260
-| **remitano.biz** | ![](assets/img/up.png) | 66
-| **remitano.net** | ![](assets/img/up.png) | 60
-| **remitano.today** | ![](assets/img/up.png) | 55
-| **remitano.world** | ![](assets/img/up.png) | 103
+| **[remitano.me](https://remitano.me)** | ![](assets/img/up.png) | 307
+| **[remitano.biz](https://remitano.biz)** | ![](assets/img/up.png) | 100
+| **[remitano.net](https://remitano.net)** | ![](assets/img/up.png) | 226
+| **[remitano.today](https://remitano.today)** | ![](assets/img/up.png) | 116
+| **[remitano.world](https://remitano.world)** | ![](assets/img/up.png) | 114
 
 ### More Information
 

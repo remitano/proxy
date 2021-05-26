@@ -19,7 +19,7 @@ A proxy site allows you to bypass blocks setup by your Internet provider.
 | Site        | Country           | Speed (ms) |
 | ------------- |:-------------:| -----:|
 {{#hash_domain_speeds}}
-| **{{name}}** | ![](assets/img/up.png) | {{speed}}
+| **[{{name}}](https://{{name}})** | ![](assets/img/up.png) | {{speed}}
 {{/hash_domain_speeds}}
 
 ### More Information
