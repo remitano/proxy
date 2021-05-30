@@ -28,7 +28,7 @@ A proxy site allows you to bypass blocks setup by your Internet provider.
 
 > After you access the remitano website by one of the above ways, you can sign in to your account and make transactions as always. All of your trading activities on the above domains will take place the same as on our main website remitano.com.
 
-> Your account is secured with these official domains (you can verify this information with our official announcement from our official support hub: [http://support.remitano.com/en/articles/5153519-alternative-domains](http://support.remitano.com/en/articles/5153519-alternative-domains)). If you have any concerns, please do not hesitate to contact our 24/7 Customer Support.
+> Your account is secured with these official domains (you can verify this information with our official announcement from our official support hub: [https://intercom.help/remitano/en/articles/5153519-how-to-login-remitano-using-proxy-hub-or-alternative-domains](https://intercom.help/remitano/en/articles/5153519-how-to-login-remitano-using-proxy-hub-or-alternative-domains) or [http://support.remitano.com/en/articles/5153519-alternative-domains](http://support.remitano.com/en/articles/5153519-alternative-domains). If you have any concerns, please do not hesitate to contact our 24/7 Customer Support.
 
 ## 3. Use VPN
 
