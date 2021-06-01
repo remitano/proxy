@@ -1,6 +1,6 @@
 ### Can't access Remitano (remitano.com)? Try following options to access:
 
-## 1. Set DNS to 1.1.1.1
+## 1. Use custom DNS
 
 You can follow instructions at [https://1.1.1.1/dns/](https://1.1.1.1/dns/) to set up DNS for your devices. To sum up, you will set DNS to
 ```

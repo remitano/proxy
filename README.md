@@ -1,6 +1,6 @@
 ### Can't access Remitano (remitano.com)? Try following options to access:
 
-## 1. Set DNS to 1.1.1.1
+## 1. Use custom DNS
 
 You can follow instructions at [https://1.1.1.1/dns/](https://1.1.1.1/dns/) to set up DNS for your devices. To sum up, you will set DNS to
 ```
@@ -18,11 +18,11 @@ A proxy site allows you to bypass blocks setup by your Internet provider.
 
 | Site        | Country           | Speed (ms) |
 | ------------- |:-------------:| -----:|
-| **[remitano.me](https://remitano.me)** | ![](assets/img/up.png) | 111
-| **[remitano.biz](https://remitano.biz)** | ![](assets/img/up.png) | 101
-| **[remitano.net](https://remitano.net)** | ![](assets/img/up.png) | 77
-| **[remitano.today](https://remitano.today)** | ![](assets/img/up.png) | 102
-| **[remitano.world](https://remitano.world)** | ![](assets/img/up.png) | 108
+| **[remitano.me](https://remitano.me)** | ![](assets/img/up.png) | 53
+| **[remitano.biz](https://remitano.biz)** | ![](assets/img/up.png) | 52
+| **[remitano.net](https://remitano.net)** | ![](assets/img/up.png) | 49
+| **[remitano.today](https://remitano.today)** | ![](assets/img/up.png) | 68
+| **[remitano.world](https://remitano.world)** | ![](assets/img/up.png) | 63
 
 ### More Information
 
